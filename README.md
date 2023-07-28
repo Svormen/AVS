@@ -1,0 +1,2 @@
+# AVS
+Architektúry výpočetných systémov
